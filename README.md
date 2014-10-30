@@ -18,16 +18,18 @@ Semoga kami bisa membuat anda mulai mencintai teknologi ini sebagaimana kami men
 
 ## Apa yang akan anda pelajari selama mengikuti tutorial ini?
 
-Once you've finished the tutorial, you will have a simple, working web application: your own blog. We will show you how to put it online, so others will see your work!
+Setelah selesai mengikuti tutorial ini, anda akan memiliki sebuah aplikasi berbasis web sederhana, yaitu sebuah blog. Kami akan menunjukkan bagaimana cara membuatnya online sehingga teman-teman bisa melihat hasil karya anda.
 
-It will (more or less) look like this:
+Kira-kira hasil akhirnya akan terlihat seperti gambar di bawah ini:
 
 ![Figure 0.1](images/application.png)
 
-> If you work with the tutorial on your own and don't have a coach that will help you in case of any problem, we have a chat for you: [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/DjangoGirls/tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge). We asked our coaches and previous attendees to be there from time to time and help others with the tutorial! Don't be afraid to ask your question there!
+> Jika anda mengikuti tutorial ini seorang diri dan menemukan kesulitan dalam prosesnya, kami punya halaman chating untuk anda: [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/DjangoGirls/tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge). Kami telah meminta para pembimbing dan teman-teman lainnya untuk siaga disana untuk membantu yang lagi belajar, jadi jangan pernah ragu ataupun takut untuk bertanya ya!
 
-OK, [let's start at the beginning...](how_internet_works/README.md)
+Oke, [Mari kita mulai...](how_internet_works/README.md)
 
-## About and contributing
+## Tentang dan berkontribusi
 
-This tutorial is maintained by [DjangoGirls](http://djangogirls.org/). If you find any mistakes or want to update the tutorial please [follow the contributing guidelines](https://github.com/DjangoGirls/tutorial/blob/master/CONTRIBUTING.md).
+Tutorial ini aslinya di buat oleh [DjangoGirls](http://djangogirls.org/) dan di terjemahkan ke Bahasa Indonesia oleh [Eka Putra](https://github.com/ekaputra07).
+
+Jika anda menemukan kesalahan atau ingin ikut berkontribusi tolong ikuti [tata cara berkontribusi](https://github.com/belajar-django/tutorial-id/blob/master/CONTRIBUTING.md).
