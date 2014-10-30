@@ -1,4 +1,4 @@
-# Django Girls Tutorial
+# Django Girls Tutorial (Indonesian)
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/DjangoGirls/tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
@@ -6,17 +6,17 @@ International License. To view a copy of this license, visit
 http://creativecommons.org/licenses/by-sa/4.0/
 
 
-## Introduction
+## Pendahuluan
 
-Have you ever felt that the world is more and more about technology and you are somehow left behind? Have you ever wondered how to create a website but have never had enough motivation to start? Have you ever thought that the software world is too complicated for you to even try doing something on your own?
+Pernahkah anda merasa bahwa dunia ini semakin lama tidak akan jauh dari teknologi dan anda merasa seperti tertinggal di belakang? Pernahkah anda membayangkan bagaimana cara membuat website tetapi tidak pernah punya cukup motivasi untuk memulainya? atau bahkan anda berfikir bahwa bidang pengembangan perangkat lunak terlalu rumit untuk anda coba?
 
-Well, we have good news for you! Programming is not as hard as it seems and we want to show you how fun it can be.
+Kami punya kabar baik untuk anda! Sebenarnya pemrograman tidaklah sesulit kelihatannya dan kami ingin menunjukkan pada anda bahwa ini bisa sangat menyenangkan.
 
-The tutorial will not magically turn you into a programmer. If you want to be good at it, you need months or even years of learning and practice. But we want to show you that programming or creating websites is not as complicated as it seems. We will try to explain different bits and pieces as well as we can, so you will not feel intimidated by technology.
+Tutorial ini tidak akan menyulap anda menjadi seorang programer dalam sekejap. Jika anda ingin terampil di bidang ini, akan memerlukan waktu bulanan atau bahkan tahunan untuk belajar dan latihan. Tapi kami ingin menunjukkan bahwa pemrograman atau membuat website itu tidaklah serumit kelihatannya. Kami akan mencoba sebaik-baiknya untuk menjelaskan secara lengkap dan detail, sehingga anda tidak akan merasa bingung.
 
-We hope that we'll be able to make you love technology as much as we do!
+Semoga kami bisa membuat anda mulai mencintai teknologi ini sebagaimana kami mencintainya.
 
-## What will you learn during the tutorial?
+## Apa yang akan anda pelajari selama mengikuti tutorial ini?
 
 Once you've finished the tutorial, you will have a simple, working web application: your own blog. We will show you how to put it online, so others will see your work!
 
@@ -24,7 +24,7 @@ It will (more or less) look like this:
 
 ![Figure 0.1](images/application.png)
 
-> If you work with the tutorial on your own and don't have a coach that will help you in case of any problem, we have a chat for you: [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/DjangoGirls/tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge). We asked our coaches and previous attendees to be there from time to time and help others with the tutorial! Don't be afraid to ask your question there! 
+> If you work with the tutorial on your own and don't have a coach that will help you in case of any problem, we have a chat for you: [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/DjangoGirls/tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge). We asked our coaches and previous attendees to be there from time to time and help others with the tutorial! Don't be afraid to ask your question there!
 
 OK, [let's start at the beginning...](how_internet_works/README.md)
 
