@@ -1,21 +1,18 @@
-# How the Internet works
+# Bagaimana internet bekerja
 
 > This chapter is inspired by a talk "How the Internet works" by Jessica McKellar (http://web.mit.edu/jesstess/www/).
 
-We bet you use the Internet every day. But do you actually know what happens when you type an address like http://djangogirls.org into your browser and press 'Enter'?
+Kami berani pastikan anda menggunakan internet setiap hari. Tetapi apakah anda tahu apa yang sebenarnya terjadi setelah anda mengetikkan http://djangogirls.org di browser dan tekan 'Enter'?
 
-The first thing you need to understand is that a website is just a bunch of files saved on a hard disk. Just like your movies, music or pictures.
-However, there is one part that is unique for websites: they include computer code called HTML.
+Hal pertama yang perlu anda mengerti adalah bahwa website hanyalah kumpulan file yang tersimpan di hard disk. Sama halnya dengan video, musik ataupun foto-foto anda. Namun ada satu hal yang berbeda, yaitu file-file tersebut merupakan kode komputer yang disebut dengan HTML.
 
-If you're not familiar with programming, it can be hard to grasp HTML at first, but your web browsers (like Chrome, Safari, Firefox, etc.) love it. Web browsers are designed to understand this code,
-follow its instructions and present all these files that your website is made of exactly the way you want them to be presented.
+Jika anda tidak terbiasa dengan pemrograman, mungkin pada awalnya akan sedikit sulit untuk memahami HTML, tetapi web browser anda (seperti Chrome, Safari, Firefox, dll.) sangat menyukainya. Web browser memang didesain untuk mengerti kode-kode ini, memproses dan menampilkannya seperti yang anda inginkan.
 
-As with every file, we need to store HTML files somewhere on a hard disk. For the Internet, we use special, powerful computers called *servers*. They don't have
-a screen, mouse or a keyboard, because their main purpose is to store data and serve it. That's why they're called *servers* -- because they *serve* you data.
+Seperti file lainnya, kita perlu tempat untuk menyimpan file HTML ini di hard disk. Untuk di internet, kita menggunakan komputer khusus yang kita sebut *server*. Komputer ini tidak memiliki layar, mouse ataupun keyboard, karena fungsi utamanya adalah untuk menyimpan dan menyajikannya melalui internet/jaringan komputer. Karena itulah komputer itu disebut *server / penyaji* -- karena mereka menyajikan data anda.
 
-OK, but you want to know how the Internet looks like, right?
+Oke, anda pasti ingin tahu internet itu seperti apa bukan?
 
-We drew you a picture! It looks like this:
+Kami menggambarkanya buat anda! kira-kira seperti ini:
 
 ![Figure 1.1](images/internet_1.png)
 
